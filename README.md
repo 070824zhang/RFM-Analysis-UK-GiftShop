@@ -6,7 +6,7 @@ A customer segmentation project using Python (Pandas/PyEcharts) on UK retail dat
 [![PyEcharts](https://img.shields.io/badge/Visual-PyEcharts-orange.svg)](https://pyecharts.org/)
 
 ## 📈 项目演示
-👉 **[点击此处在线查看交互式可视化图表](https://070824zhang.github.io/RFM-Analysis-UK-GiftShop/rfm_chart.html)**
+👉 **[点击此处在线查看交互式可视化图表](https://070824zhang.github.io/RFM-Analysis-UK-GiftShop/index.html)**
 
 ## 🎯 项目核心洞察
 - **高贡献度**：通过 RFM 模型识别出占总人数 20% 的“重要价值客户”，贡献了超过 60% 的总营收。
