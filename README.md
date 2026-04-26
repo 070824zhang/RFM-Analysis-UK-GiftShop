@@ -22,8 +22,8 @@ A customer segmentation project using Python (Pandas/PyEcharts) on UK retail dat
 “本项目已从基础的 RFM 模型升级为 多维业务洞察看板 2.0，新增了用户分布与营收贡献的对比分析。”
 2. 核心业务发现 (Key Business Insights)
 这是最能体现你数据敏感度的部分：
-二八定律分析：核心客户（Champions）占比仅为 X%，但贡献了全店 Y% 的总营收，说明维持高端客户关系是业务核心。
-消费潜力洞察：重要保持客户（Loyal Customers）的人均消费金额达 £XXXX，是新客的 Z 倍。
+二八定律分析：核心客户（Champions）占比仅为 21%，但贡献了全店 63.68% 的总营收，说明维持高端客户关系是业务核心。
+消费潜力洞察：重要保持客户（Loyal Customers）的人均消费金额达 £6098，是新客的 14 倍。
 流失预警指标：根据数据分布，将静默时间超过 119 天的客户定义为高风险流失群体，建议触发自动化召回邮件。
 3. 技术栈更新 (Tech Stack)
 数据处理：Pandas (多维聚合 agg 函数应用)。
