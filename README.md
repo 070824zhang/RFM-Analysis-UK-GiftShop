@@ -12,6 +12,8 @@ A customer segmentation project using Python (Pandas/PyEcharts) on UK retail dat
 双圆环图对比：一眼看清“客户数量占比”与“营收贡献占比”的巨大差距。
 
 横向均值柱状图：横向对比不同层级客户的真实消费能力。
+
+Power BI效果图：
 <img width="2216" height="1377" alt="ScreenShot_2026-05-03_151947_105" src="https://github.com/user-attachments/assets/024a0268-4a9b-477e-afe7-f511ed6caf27" />
 
 ## 🎯 项目核心洞察
