@@ -15,6 +15,8 @@ A customer segmentation project using Python (Pandas/PyEcharts) on UK retail dat
 
 Power BI效果图：
 <img width="2216" height="1377" alt="ScreenShot_2026-05-03_151947_105" src="https://github.com/user-attachments/assets/024a0268-4a9b-477e-afe7-f511ed6caf27" />
+AB测试结果：
+<img width="747" height="378" alt="ScreenShot_2026-05-10_133511_200" src="https://github.com/user-attachments/assets/a5400b89-b9b9-4911-8f09-8f68ed09a5e5" />
 
 ## 🎯 项目核心洞察
 - **高贡献度**：通过 RFM 模型识别出占总人数 21% 的“重要价值客户”，贡献了超过 63% 的总营收。
