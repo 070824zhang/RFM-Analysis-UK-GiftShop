@@ -48,7 +48,7 @@ AB测试结果：
 UI/UX 设计：采用圆角卡片化布局，配合浅灰色调视觉分层，大幅提升了信息获取效率。
 AB测试：针对将要流失客户指定合适的策略来提高用户留存。
 
-##🚀 Phase 2: Marketing Strategy Validation (A/B Testing)
+## 🚀 Phase 2: Marketing Strategy Validation (A/B Testing)
 
 策略验证阶段：A/B 测试实战
 
