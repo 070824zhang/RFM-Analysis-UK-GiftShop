@@ -74,6 +74,7 @@ Treatment Group Conv. Rate (实验组转化率): 8.93%
 
 P-Value (P 值): 0.0197 (At 95% confidence level / 在 95% 置信水平下)
 
+
 Conclusion / 最终结论: The P < 0.05 indicates that the 78% relative lift in conversion is statistically significant. The coupon strategy is proven effective for churn prevention and is recommended for full-scale rollout.
 
 P < 0.05 表明转化率 78% 的相对提升在统计学上是显著的。证明优惠券策略对防止流失有效，建议全量推广。
